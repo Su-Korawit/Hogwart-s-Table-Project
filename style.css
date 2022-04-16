@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin: 10%;
+    font-size: 14px;
+    font-family: 'Open Sans';
+}
+
+table {
+    border-spacing: 10px 0px;
+}
+
+th ,td {
+    border-bottom: 2px solid gray;
+    text-align: center;
+    background-color: rgba(186, 247, 245, 0.5);
+    padding: 20px;
+}
+
+td:hover {
+    background-color: #375b5c;
+    color: white;
+    font-family: 'Grape Nuts', cursive;
+}
